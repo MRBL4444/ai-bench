@@ -1,0 +1,38 @@
+[
+  {
+    "task_id": "t1",
+    "difficulty": "easy",
+    "repo": "t1_repo",
+    "problem": "Function should sum even numbers but currently sums odd numbers."
+  },
+  {
+    "task_id": "t2",
+    "difficulty": "easy",
+    "repo": "t2_repo",
+    "problem": "Function crashes on empty input. Return 0."
+  },
+  {
+    "task_id": "t3",
+    "difficulty": "medium",
+    "repo": "t3_repo",
+    "problem": "Negative even numbers are handled incorrectly."
+  },
+  {
+    "task_id": "t4",
+    "difficulty": "medium",
+    "repo": "t4_repo",
+    "problem": "Mixed sign inputs produce incorrect aggregation."
+  },
+  {
+    "task_id": "t5",
+    "difficulty": "hard",
+    "repo": "t5_repo",
+    "problem": "Large input range causes incorrect result."
+  },
+  {
+    "task_id": "t6",
+    "difficulty": "hard",
+    "repo": "t6_repo",
+    "problem": "Multiple edge cases fail simultaneously."
+  }
+]
